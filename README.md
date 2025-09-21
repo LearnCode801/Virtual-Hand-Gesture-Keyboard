@@ -50,16 +50,6 @@ The system employs **MediaPipe Hand Landmark Detection** which:
 Camera Feed → Hand Detection → Landmark Extraction → Gesture Recognition → UI Update → Text Output
 ```
 
-## 📁 Project Structure
-
-```
-project/
-│
-├── main.py          # Main application with virtual keyboard implementation
-├── text.py          # String manipulation utilities
-└── README.md        # Project documentation
-```
-
 ## 🚀 Installation
 
 ### Prerequisites
